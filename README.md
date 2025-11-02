@@ -1,3 +1,3 @@
 # EasyCompChem
 
-Library with the simple script to simplify routine tasks of the computational chemist
+Some scripts to simpify the life of the computational chemist
